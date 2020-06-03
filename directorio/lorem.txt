@@ -2,6 +2,4 @@ Introducción:
 
 Integrar todo un equipo de trabajo hoy en día, es viable, pero se vuelve tedioso cuando no existe un control, en las tareas que realiza cada integrante, en el desarrollo de un sistema.
 
-Por ello nacen así, los sistemas de control de versiones, que no hacen más que controlar los cambios, que lleva a cabo cada desarrollador.
-
-En este post veremos cómo instalar uno de los sistemas de control de versiones más utilizados hoy en día, Git.
+Por ello nacen así, y en día, Git.
