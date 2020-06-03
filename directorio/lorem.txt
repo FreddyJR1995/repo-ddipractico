@@ -1,4 +1,19 @@
 Introducción:
+Introducción:
+
+Integrar todo un equipo de trabajo hoy en día, es viable, pero se vuelve tedioso cuando no existe un control, en las tareas que realiza cada integrante, en el desarrollo de un sistema.
+
+Por ello nacen así, y en día, Git.
+Introducción:
+
+Integrar todo un equipo de trabajo hoy en día, es viable, pero se vuelve tedioso cuando no existe un control, en las tareas que realiza cada integrante, en el desarrollo de un sistema.
+
+Por ello nacen así, y en día, Git.
+Introducción:
+
+Integrar todo un equipo de trabajo hoy en día, es viable, pero se vuelve tedioso cuando no existe un control, en las tareas que realiza cada integrante, en el desarrollo de un sistema.
+
+Por ello nacen así, y en día, Git.
 
 Integrar todo un equipo de trabajo hoy en día, es viable, pero se vuelve tedioso cuando no existe un control, en las tareas que realiza cada integrante, en el desarrollo de un sistema.
 
